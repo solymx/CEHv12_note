@@ -7,6 +7,7 @@
 # Some tool intro
 
 - Bluto is a DNS penetration testing tool based on Python
+- Cain and Abel (often abbreviated to Cain) was a password recovery tool for Microsoft Windows
 - Nikto is a free software command-line vulnerability scanner that scans web servers for dangerous
 files/CGIs
 - Kismet is a network detector, packet sniffer, and intrusion detection system for 802.11 wireless LANs
@@ -17,5 +18,7 @@ files/CGIs
 
 - `-sV`: Probe open ports to determine service/version info
 - `-F` : (Fast (limited port) scan)，如果題目問要最快速的話
+- `-oX` <filespec> : Requests that XML output be directed to the given filename.
+
 
 - HIPAA/PHI
