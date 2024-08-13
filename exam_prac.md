@@ -7,6 +7,8 @@
 # Some tool intro
 
 - Bluto is a DNS penetration testing tool based on Python
+- Nikto is a free software command-line vulnerability scanner that scans web servers for dangerous
+files/CGIs
 
 # 讓醫療資料保密不安全的法律
 
