@@ -7,3 +7,7 @@
 # Some tool intro
 
 - Bluto is a DNS penetration testing tool based on Python
+
+# 讓醫療資料保密不安全的法律
+
+- HIPAA/PHI
