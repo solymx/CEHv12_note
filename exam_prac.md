@@ -10,4 +10,9 @@
 
 # 讓醫療資料保密不安全的法律
 
+# nmap use
+
+- `-sV`: Probe open ports to determine service/version info
+
+
 - HIPAA/PHI
