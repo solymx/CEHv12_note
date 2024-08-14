@@ -7,6 +7,7 @@
 # Crypto 相關
 
 - Web of Trust, WoT: 密碼學中的一個概念，可以用來驗證一個公鑰的持有者身份
+- Key escrow : 是一種允許保管加密金鑰的機制
 
 # Some attack
 
@@ -20,7 +21,9 @@
 files/CGIs
 - CHNTPW 是一個用來重新設定Windows NT登入密碼的軟體工具，在Linux環境下修改或是清除本機密碼
 - Evilginx : 創建釣魚郵件
+- Syhunt Hybrid: Web application 安全掃描軟體
 - CeWL (Custom Word List generator) is a ruby app which spiders a given URL, up to a specified depth, and returns a list of words which can then be used for password crackers
+- BetterCAP-可以發送假的arp出去
 - Kismet is a network detector, packet sniffer, and intrusion detection system for 802.11 wireless LANs
 
 # email 相關
