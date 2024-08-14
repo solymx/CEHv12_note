@@ -11,7 +11,17 @@
 - Nikto is a free software command-line vulnerability scanner that scans web servers for dangerous
 files/CGIs
 - CHNTPW 是一個用來重新設定Windows NT登入密碼的軟體工具，在Linux環境下修改或是清除本機密碼
+- Evilginx : 創建釣魚郵件
+- CeWL (Custom Word List generator) is a ruby app which spiders a given URL, up to a specified depth, and returns a list of words which can then be used for password crackers
 - Kismet is a network detector, packet sniffer, and intrusion detection system for 802.11 wireless LANs
+
+# email 相關
+
+- PGP: 用以加解密和驗證 EMAIL 的 Message
+
+# Website
+
+- Guardster: 提供網頁匿名代理服務
 
 # 讓醫療資料保密不安全的法律
 - HIPAA/PHI
