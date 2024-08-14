@@ -4,6 +4,10 @@
 - -T0 makes the least noise.
 - -T5 the most noise.
 
+# Some attack
+
+- Internal monologue attack (內心獨白)：駭客可以提取所有已登錄用户的NTLMv1 hashes
+
 # Some tool intro
 
 - Bluto is a DNS penetration testing tool based on Python
